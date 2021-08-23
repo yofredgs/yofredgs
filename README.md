@@ -1,5 +1,5 @@
-# ![https://mouredev.com](https://raw.githubusercontent.com/mouredev/mouredev/master/yofred-avatar-bitmoji.png) Hello, my name is Brais Moure
-### Freelance full-stack iOS & Android engineer
+# ![yofred-avatar-bitmoji](https://user-images.githubusercontent.com/45433489/130503770-b1093b98-8c50-4894-8a04-a75f981dcc81.png) Hello, my name is Yofred Garcia
+### Freelance Web developer and Systems Engineer
 
 <!--
 **yofredgs/yofredgs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
