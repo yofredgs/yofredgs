@@ -1,6 +1,9 @@
 # ![yofred-avatar-bitmoji](https://user-images.githubusercontent.com/45433489/130503770-b1093b98-8c50-4894-8a04-a75f981dcc81.png) Hello, my name is Yofred García
 ### Freelance Web developer and Systems Engineer.
 
+![github-banner-profile](https://user-images.githubusercontent.com/45433489/130526537-df72f0e2-8b32-4aca-87e1-fe5437fc385b.jpg)
+
+
 <!--
 **yofredgs/yofredgs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
