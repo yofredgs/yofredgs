@@ -1,4 +1,4 @@
-# ![yofred-avatar-bitmoji](https://user-images.githubusercontent.com/45433489/130503770-b1093b98-8c50-4894-8a04-a75f981dcc81.png) Hello, my name is Yofred Garcia
+# ![yofred-avatar-bitmoji](https://user-images.githubusercontent.com/45433489/130503770-b1093b98-8c50-4894-8a04-a75f981dcc81.png) Hello, my name is Yofred García
 ### Freelance Web developer and Systems Engineer.
 
 <!--
